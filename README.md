@@ -1,6 +1,5 @@
 # 💫 About Me:
-**Nimo Mohamed** 🌍<br>🔗 [GitHub](https://github.com/nimo-mohamed)<br><br>📌 **About Me**<br><br> 👋 Hi, I’m @nimo-mohamed An ambitious individual with roots in retail and healthcare, I was entranced by technology after relocating to the UK. My passion for technology has since flourished, leading me on a self-taught journey into the world of coding. With a diverse educational background from Royal Holloway University and hands-on experience from renowned platforms like Bright Network, SheCodes, and Google, I am actively seeking to apply my skills to tackle real-world problems.<br>  <br>
-<br>🤝 **Let's Connect!**<br><br>Feel free to reach out if you're interested in collaborating, or just want to chat about tech, finance, or anything in between!<br><br>
+**Nimo Mohamed** 🌍<br>🔗 [GitHub](https://github.com/nimo-mohamed)<br><br>📌 **About Me**<br><br> 👋 Hi, 
 
 
 ## 🌐 Socials:
